@@ -4,7 +4,7 @@
 \author Amy Stoltz
 \date   2/2020
 \brief
-	This file contains the functions for the states.
+	This file contains the functions for the states that inherit this class.
 
 	© 2020 DigiPen, All Rights Reserved.
 */

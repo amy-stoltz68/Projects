@@ -26,7 +26,7 @@
 namespace Gam200
 {	
 	class State
-	{
+	{ 
 	public:
 		virtual void Enter(Behavior*) = 0;  // what happens when it first enters the state
 		virtual void Execute(Behavior*) = 0; // the main event of the state

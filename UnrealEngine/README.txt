@@ -1,0 +1,1 @@
+For this project, the NavMesh data was collected to make a procedural NavLink Generator. The generator got all the verticies from each polygon from the NavMesh, and connected to each other NavLink that fit the conditions.

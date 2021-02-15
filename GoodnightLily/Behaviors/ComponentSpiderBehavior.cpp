@@ -50,7 +50,7 @@
 			if (getAniSp(this))
 			{
         
-        // if the spider is beginning to attack
+        			// if the spider is beginning to attack
 				if (getAniSp(this)->find_event("S1_Event_Attack"))
 				{
 					// play the attack audio
